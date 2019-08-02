@@ -37,4 +37,3 @@ def sort(students)
       end
     end
   end
-end
