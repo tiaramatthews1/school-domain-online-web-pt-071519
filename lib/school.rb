@@ -28,7 +28,7 @@ def grade(num)
   end
 end 
 
-def sort(students)
+def sort
   students_hash = {}
   roster.each do |x,y|
     students_hash[x] = y.sort
