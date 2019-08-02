@@ -36,4 +36,3 @@ def sort(students)
   students_hash
       end
     end
-  end
